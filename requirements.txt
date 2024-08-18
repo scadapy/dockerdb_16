@@ -1,0 +1,9 @@
+fastapi[standard]
+psycopg2-binary
+xlsxwriter
+openpyxl
+sshtunnel
+pillow
+bs4
+requests
+xlrd
